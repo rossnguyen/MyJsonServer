@@ -1,11 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "code": 400,
+  "data":{
+    "name":"Ross Nguyen",
+    "age": 28
   }
+  "error":null
 }
