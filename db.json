@@ -8,9 +8,9 @@
   "profile": {
     "name": "typicode"
   },
-  "data":{
+  "data": {
     "name": "Phuc dep trai",
     "age": 28
   },
-  "code": 400,
+  "code": 400
 }
